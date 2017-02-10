@@ -242,7 +242,7 @@ function ReStarWorker( addingToOriginal, filter, label, labelOriginalName, stopT
         /* Following condition is the same as affectedThreadsFilter for this message (excluding the label subfilter).
          Not extracting 'Message-ID: ' from message.getRawContent(), as that would include attachments -> big data flow.
          Instead, using Gmail.Users.Messages.get() and its getId().
-         Alternatively, once Google fixes https://code.google.com/p/google-apps-script-issues/issues/detail?id=6559, 
+         Alternatively, once Google fixes  https://code.google.com/p/google-apps-script-issues/issues/detail?id=1191, 
          use '*' collector sublabel to collect messages with any colored stars (has:XYZ). Then we won't need any special handling for is:starred,
          and remove this if() {....} branch.
         */

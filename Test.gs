@@ -91,7 +91,7 @@ function testRemoveLabelFromNoThreads() {
   ProcessedLabels.removeFromThreads([]);
   NotReLabelledYet.removeFromThreads([]);
 }
-// For testing https://code.google.com/p/google-apps-script-issues/issues/detail?id=6559
+// For testing https://code.google.com/p/google-apps-script-issues/issues/detail?id=1191
 function testColoredStarFilters() {
   var filter= '{has:blue-star has:red-star has:orange-star has:green-star has:purple-star has:red-bang has:yellow-bang has:blue-info has:orange-guillemet has:green-check has:purple-question} ';
   Logger.log( 'Colored star filter returned ' +GmailApp.search( filter, 0, 500 ).length+' matches.' );
