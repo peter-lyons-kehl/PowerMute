@@ -20,6 +20,8 @@ If you send emails in batches, you can choose "Fully Mute" mode. Once you activa
 
 ##Focus##
 
-This community primarily improves GMail. Then potentially in Google Drive (Docs, Sheets), adding new commands to the menus. It may use other other Google technologies: Contacts, Forms, Calendar, Groups, Maps.
+This community primarily improves GMail. Then potentially in Google Drive (Docs, Sheets), by adding new commands to the menus. It may use other Google technologies: Contacts, Forms, Calendar, Groups, Maps.
 
-Solutions are in Google Apps Script. That's easy to replicate (no need for hosting). It works regardless of GMail client (web, mobile or IMAP).
+Solutions are in [Google Apps Script](https://www.google.com/script/start/). That's easy to replicate (no need for hosting). It works regardless of GMail client (web, mobile or IMAP).
+
+This is not a place for Google Apps or custom hosted applications.
