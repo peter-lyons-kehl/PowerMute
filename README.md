@@ -9,7 +9,7 @@ People who
 Imagine you add a label to a message, or you star it. Someone replies to it later. Any later replies won't have that label and star assigned, even though they show up in the same thread. (Those later messages don't get found when you search under that label or star.) This add-on fixes it.
 
 ###"Power Mute"
-Do you use "Mute" in GMail?
+Do you use "Mute" command in GMail?
 ![Mute button](img/Mute.png)
 
 That mutes replies, but it excludes any replies sent direct to you. (See [Mute](http://smallbusiness.chron.com/mute-mean-gmail-62428.html) for standard GMail limitations.)
@@ -20,8 +20,8 @@ If you send emails in batches, you can choose "Fully Mute" mode. Once you activa
 
 ##Focus##
 
-This community primarily improves GMail. Then potentially in Google Drive (Docs, Sheets), by adding new commands to the menus. It may use other Google technologies: Contacts, Forms, Calendar, Groups, Maps.
+This community primarily improves GMail for end users. Then potentially Google Drive (Docs, Sheets), by adding new commands to the menus. It may use other Google technologies: Contacts, Forms, Calendar, Groups, Maps.
 
-Solutions are in [Google Apps Script](https://www.google.com/script/start/). That's easy to replicate (no need for hosting). It works regardless of GMail client (web, mobile or IMAP).
+Solutions are in [Google Apps Script](https://www.google.com/script/start/). That's easy to share (as libraries) and to replicate (no need for hosting). It works regardless of GMail client (web, mobile or IMAP).
 
 This is not a place for Google Apps or custom hosted applications.
