@@ -10,7 +10,7 @@ Imagine you add a label to a message, or you star it. Someone replies to it late
 
 2. "Power Mute"
 Do you use "Mute" in GMail?
-!(Mute button)[img/Mute.png]
+![Mute button](img/Mute.png)
 
 That mutes replies, but it excludes any replies sent direct to you. (See [Mute](http://smallbusiness.chron.com/mute-mean-gmail-62428.html) for standard GMail limitations.)
 
