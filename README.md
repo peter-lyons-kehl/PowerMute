@@ -19,9 +19,6 @@ This add-on allows you to mute any responses, including direct ones. (As per cla
 If you send emails in batches, you can choose "Fully Mute" mode. Once you activate it, any threads that you start or respond to will be fully muted. That applies until you deactivate "Fully Mute".
 
 ##Focus##
+This community primarily improves GMail for end users. Solutions work preferrably with any GMail client (web, IMAP or mobile). We may also extend Google Drive (Docs, Sheets), by adding new commands to the menus. Other technologies: Contacts, Forms, Calendar, Groups, Maps.
 
-This community primarily improves GMail for end users. Then potentially Google Drive (Docs, Sheets), by adding new commands to the menus. It may use other Google technologies: Contacts, Forms, Calendar, Groups, Maps.
-
-Solutions are in [Google Apps Script](https://www.google.com/script/start/). That's easy to share (as libraries) and to replicate (no need for hosting). It works regardless of GMail client (web, mobile or IMAP).
-
-This is not a place for Google Apps or custom hosted applications.
+Implementation is by [Google Apps Scripts](https://www.google.com/script/start/). Not by Google Apps or custom hosted applications. Apps Scripts are easy to share, to update (as libraries) and to replicate (no need for hosting).
