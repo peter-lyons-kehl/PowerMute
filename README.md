@@ -5,10 +5,10 @@ People who
 
 ##Functionality##
 
-1. Fixing search with stars and labels
+###Fixing search with stars and labels###
 Imagine you add a label to a message, or you star it. Someone replies to it later. Any later replies won't have that label and star assigned, even though they show up in the same thread. (Those later messages don't get found when you search under that label or star.) This add-on fixes it.
 
-2. "Power Mute"
+###"Power Mute"
 Do you use "Mute" in GMail?
 ![Mute button](img/Mute.png)
 
@@ -18,8 +18,8 @@ This add-on allows you to mute any responses, including direct ones. (As per cla
 
 If you send emails in batches, you can choose "Fully Mute" mode. Once you activate it, any threads that you start or respond to will be fully muted. That applies until you deactivate "Fully Mute".
 
-##Other technologies##
+##Focus##
 
-Other Google technologies: Drive (Docs, Sheets), Contacts, Forms, Calendar, Groups, Maps.
+This community primarily improves GMail. Then potentially in Google Drive (Docs, Sheets), adding new commands to the menus. It may use other other Google technologies: Contacts, Forms, Calendar, Groups, Maps.
 
-Add-ons from this community could extend Google Docs or Sheets (by adding new commands to the menus).
+Solutions are in Google Apps Script. That's easy to replicate (no need for hosting). It works regardless of GMail client (web, mobile or IMAP).
