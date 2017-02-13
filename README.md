@@ -1,7 +1,7 @@
 ##Who benefits?##
 People who
- * depend on search functionality, and labels or stars, or
- * receive many replies, or send emails in batches (invitations to events, announcements, regular followups, Christmas/ New Year/ Chinese New Year/ Passover/ Easter/ Eid Al-Fitr...)
+ * search with labels or stars, or
+ * receive many replies, or send emails in batches (invitations, announcements, followups, Christmas/ New Year/ Chinese New Year/ Passover/ Easter/ Eid Al-Fitr...)
 
 ##Functionality##
 
