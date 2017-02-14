@@ -6,12 +6,15 @@ People who
 ##Functionality##
 
 ###Search with stars and labels
-Imagine you add a label to a message, or you star it. Someone replies to it later. Any later replies won't have that label and star assigned, even though they show up in the same thread. (Those later messages don't get found when you search under that label or star.) This add-on helps you find such messages.
+Imagine you add a label to a message, or you star it. Someone responds to it later. Any later replies won't have that label and star assigned, even though they show up in the same thread. (Those later messages don't get found when you search under that label or star.) This add-on helps you find such messages.
 
 ###"Power Mute"
+Do you feel distracted by switching between conversations as replies arrive? You may prefer to respond in batches instead.
+
+Imagine: When you start a thread, you could decide when you want to handle any replies. Instead of following the feed, you can focus on conversations of your choice.
+
 Do you use "Mute" command in GMail?
 ![Mute button](img/Mute.png)
-
 That mutes replies, but it excludes any replies sent direct to you. (See [Mute](http://smallbusiness.chron.com/mute-mean-gmail-62428.html) for standard GMail limitations.)
 
 This add-on allows you to mute any responses, including direct ones. (Like classic "Mute", they will be left unread and archived.)
